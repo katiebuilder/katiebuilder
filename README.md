@@ -14,6 +14,8 @@ I code in the following Languages:
 ### Current Projects I'm working on:
 - [Statusfi](https://keatonbuilder.github.io/statusfi/about.html)
 
+(Check [this list](https://github.com/stars/keatonbuilder/lists/current-projects). It might be more up-to-date.)
+
 ### Pronouns
 She[/](en.pronouns.page/@keatonbuilds)Her
 
