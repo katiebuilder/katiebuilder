@@ -1,0 +1,12 @@
+# General Jekyll Stuff
+title: KeatonBuilder
+description: Hey...
+twitter_username: keatonbuilder
+github_username:  keatonbuilder
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+# Theme config
+color_scheme: dark
+search:
+  button: true
