@@ -10,3 +10,9 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 search:
   button: true
+aux_links:
+  GitHub: https://github.com/keatonbuilder/keatonbuilder/tree/gh-pages
+nav_external_links:
+  - title: pronouns.page
+    url: https://pronouns.page/@keatonbuilds
+    hide_icon: false
