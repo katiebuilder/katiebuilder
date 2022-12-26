@@ -17,7 +17,8 @@ I code in the following Languages:
 (Check [this list](https://github.com/stars/keatonbuilder/lists/current-projects). It might be more up-to-date.)
 
 ### Pronouns
-She[/](en.pronouns.page/@keatonbuilds)Her
+
+<img src="https://raw.githubusercontent.com/keatonbuilder/keatonbuilder/main/src/identitybadge.png" width=150 height=150> <p>She<a href="https://en.pronouns.page/@keatonbuilds">/</a>Her
 
 ### Notes
 [^1]: Yellow = Can code without help, might check [W3](https://www.w3schools.com) if needed.
