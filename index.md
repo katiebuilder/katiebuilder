@@ -26,7 +26,7 @@ I code in the following Languages:
 (Check [this list](https://github.com/stars/keatonbuilder/lists/current-projects). It might be more up-to-date.)
 
 ### Pronouns
-She/Her
+<img src="https://raw.githubusercontent.com/keatonbuilder/keatonbuilder/main/src/identitybadge.png" width=150 height=150>
 
 [pronouns.page](https://pronouns.page/@keatonbuilds){: .btn .btn-outline }
 
