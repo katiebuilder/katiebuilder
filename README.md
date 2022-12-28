@@ -4,7 +4,7 @@
 <hr>
 
 <h3>
-<a href="https://pronouns.page/keatonbuilder" target="blank"><img align="center" src="src/pronounspage.jpg" alt="pronouns.page" height="30" width="30" /></a>
+<a href="https://pronouns.page/@keatonbuilds" target="blank"><img align="center" src="src/pronounspage.jpg" alt="pronouns.page" height="30" width="30" /></a>
 Pronouns.page
 </h3>
 
