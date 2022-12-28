@@ -71,7 +71,7 @@ Pronouns.page
   </table>
 </details>
 
-<h4>Extra</h4>
+<h4>Emoi meaning</h4>
 <details><summary>Expand</summary>
   <table>
     <tr>
