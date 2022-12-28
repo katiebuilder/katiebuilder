@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keaton</h1>
 <h3 align="center">A trans girl dev that does goofy things online!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keatonbuilder&label=Profile%20views&color=0e75b6&style=flat" alt="keatonbuilder" /> </p>
-
 - 🔭 I’m currently working on [The Goofball Theater](https://goofballtheater.github.io/goofball/)
 
 - 🤝 I’m looking for help with [Statusfi](https://keatonbuilder.github.io/statusfi)
