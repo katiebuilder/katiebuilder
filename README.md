@@ -11,7 +11,7 @@ Pronouns.page
 <h4>Names</h4>
 <p><strong>💜 Kat</strong></p>
 <p><strong>💜 Kate</strong></p
-<p><strong>💜 Katie</strong></p>>
+<p><strong>💜 Katie</strong></p>
 <p>👍 Keaton</p>
 
 <h4>Pronouns</h4>
