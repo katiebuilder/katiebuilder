@@ -4,8 +4,7 @@ nav_order: 1
 layout: home
 ---
 
-# Home
-
+# KeatonBuilder
 ## Hi! I'm Keaton.
 
 ### Languages I speak:
@@ -14,21 +13,18 @@ Currently I only speak English, I plan on learning new languages soon though.
 ### Languages I can code in:
 I code in the following Languages:
 
-
 - 🟡[^1] HTML
 - 🟡[^1] CSS
 - 🔴[^2] JavaScript
 
 ### Current Projects I'm working on:
-- Statusfi
-    - [Learn More](https://keatonbuilder.github.io/about.html){: .btn .btn-blue }
+- [Statusfi](https://keatonbuilder.github.io/statusfi/about.html)
 
-(Check [this list](https://github.com/stars/keatonbuilder/lists/current-projects). It might be more up-to-date.)
+(Check [this list](https://github.com/stars/katiebuilder/lists/current-projects). It might be more up-to-date.)
 
 ### Pronouns
-<img src="https://raw.githubusercontent.com/keatonbuilder/keatonbuilder/main/src/identitybadge.png" width=150 height=150>
 
-[pronouns.page](https://pronouns.page/@keatonbuilds){: .btn .btn-outline }
+<img src="https://raw.githubusercontent.com/katiebuilder/katiebuilder/main/src/identitybadge.png" width=150 height=150> <p>She<a href="https://en.pronouns.page/@katebuilds">/</a>Her
 
 ### Notes
 [^1]: Yellow = Can code without help, might check [W3](https://www.w3schools.com) if needed.
