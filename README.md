@@ -1,16 +1,18 @@
-<h1 align="center">Hello 👋, I'm Keaton</h1>
+<h1 align="center">Hello 👋, I'm Katie!</h1>
 <h3 align="center">A trans girl dev that does goofy things online!</h3>
 
 <hr>
 
 <h3>
-<a href="https://pronouns.page/@keatonbuilds" target="blank"><img align="center" src="src/pronounspage.jpg" alt="pronouns.page" height="30" width="30" /></a>
+<a href="https://pronouns.page/@katebuilds" target="blank"><img align="center" src="src/pronounspage.jpg" alt="pronouns.page" height="30" width="30" /></a>
 Pronouns.page
 </h3>
 
 <h4>Names</h4>
-<p><strong>💜 Keaton</strong></p>
-<p>👍 Kat</p>
+<p><strong>💜 Kat</strong></p>
+<p><strong>💜 Kate</strong></p
+<p><strong>💜 Katie</strong></p>>
+<p>👍 Keaton</p>
 
 <h4>Pronouns</h4>
 <p><strong>💜 she/her</strong></p>
@@ -75,7 +77,7 @@ Pronouns.page
 <details><summary>Expand</summary>
   <table>
     <tr>
-      <th>💜 Yes<th>
+      <th>💜 Yes</th>
       <th>😋 Jokingly</th>
       <th>🔒 Only if we're close</th>
       <th>👍 Okay</th>
@@ -87,15 +89,15 @@ Pronouns.page
 
 <hr>
 
-- 🔭 I’m currently working on [The Goofball Theater](https://goofballtheater.github.io/goofball/)
+- 🔭 I’m currently working on: [The Goofball Theater](https://goofballtheater.github.io/goofball/)
 
-- 🤝 I’m looking for help with [Statusfi](https://keatonbuilder.github.io/statusfi)
+- 🤝 I’m looking for help with: [Statusfi](https://keatonbuilder.github.io/statusfi)
 
-- 👨‍💻 All of my projects are available at [https://keatonbuilder.github.io/keatonbuilder/](https://keatonbuilder.github.io/keatonbuilder/)
+- 👨‍💻 A list of my projects are available at: [https://github.com/katiebuilder](https://github.com/katiebuilder?tab=repositories)
 
-- 📫 How to reach me **[Discord](https://discord.gg/zjFBKdJKvt)**
+- 📫 How to reach me: **[On Discord](https://discord.gg/zjFBKdJKvt)**
 
-- ⚡ Fun fact **I can be quite silly at times..**
+- ⚡ Fun fact: **I can be quite silly at times..**
 
 <hr>
 
