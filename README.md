@@ -3,11 +3,6 @@
 
 <hr>
 
-<h3>
-<a href="https://pronouns.page/@katebuilds" target="blank"><img align="center" src="src/pronounspage.jpg" alt="pronouns.page" height="30" width="30" /></a>
-Pronouns.page
-</h3>
-
 <h4>Names</h4>
 <p><strong>💜 Kat</strong></p>
 <p><strong>💜 Kate</strong></p
@@ -89,13 +84,13 @@ Pronouns.page
 
 <hr>
 
-- 🔭 I’m currently working on: [The Goofball Theater](https://goofballtheater.github.io/goofball/)
+- 🔭 I’m currently working on: Nothing
 
-- 🤝 I’m looking for help with: [Statusfi](https://keatonbuilder.github.io/statusfi)
+- 🤝 I’m looking for help with: Nothing
 
 - 👨‍💻 A list of my projects are available at: [https://github.com/katiebuilder](https://github.com/katiebuilder?tab=repositories)
 
-- 📫 How to reach me: **[On Discord](https://discord.gg/zjFBKdJKvt)**
+- 📫 How to reach me: **[On Discord](https://discord.gg/s2MqCGVZyS)**
 
 - ⚡ Fun fact: **I can be quite silly at times..**
 
@@ -104,7 +99,7 @@ Pronouns.page
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/keatonbuilder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://discord.gg/zjFBKdJKvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://discord.gg/s2MqCGVZyS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <hr>
