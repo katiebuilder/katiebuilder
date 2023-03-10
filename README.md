@@ -7,12 +7,10 @@
 <p><strong>💜 Kat</strong></p>
 <p><strong>💜 Kate</strong></p
 <p><strong>💜 Katie</strong></p>
-<p>👍 Keaton</p>
 
 <h4>Pronouns</h4>
 <p><strong>💜 she/her</strong></p>
 <p>👍 they/them</p>
-<p><small>👎 he/him</small></p>
 
 <h4>Words</h4>
 <details><summary>Expand</summary>
