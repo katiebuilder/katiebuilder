@@ -4,28 +4,17 @@ nav_order: 1
 layout: home
 ---
 
-# KeatonBuilder
-## Hi! I'm Keaton.
+# Hello!
+## I'm Katie.
+### I make things on the internet sometimes.
+Oh yeah, I'm quite silly too.
+You can check out some of the stupidest things I make on the internet below.
 
-### Languages I speak:
-Currently I only speak English, I plan on learning new languages soon though.
+[Main YouTube](https://www.youtube.com/@katiebuilder){: .btn .btn-purple }
+[Secondary YouTube](https://www.youtube.com/@katiebuilds){: .btn .btn-outline }
 
-### Languages I can code in:
-I code in the following Languages:
+[TikTok](https://www.tiktok.com/@kaitebuilder){: .btn .btn-purple }
+[GitHub](https://github.com/katiebuilder){: .btn .btn-purple }
+[Wiki](https://katiebuilder.fandom.com/wiki/KatieBuilder%27s_Wiki){: .btn .btn-purple }
 
-- 🟡[^1] HTML
-- 🟡[^1] CSS
-- 🔴[^2] JavaScript
-
-### Current Projects I'm working on:
-- [Statusfi](https://keatonbuilder.github.io/statusfi/about.html)
-
-(Check [this list](https://github.com/stars/katiebuilder/lists/current-projects). It might be more up-to-date.)
-
-### Pronouns
-
-<img src="https://raw.githubusercontent.com/katiebuilder/katiebuilder/main/src/identitybadge.png" width=150 height=150> <p>She<a href="https://en.pronouns.page/@katebuilds">/</a>Her
-
-### Notes
-[^1]: Yellow = Can code without help, might check [W3](https://www.w3schools.com) if needed.
-[^2]: Red = Will always need help, usally from [W3](https://www.w3schools.com).
+[Discord Server](https://discord.com/invite/s2MqCGVZyS){: .btn .btn-purple }
