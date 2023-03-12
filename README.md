@@ -1,1 +1,1 @@
-http://beta.katiebuilds.website/
+http://www.katiebuilds.website/
